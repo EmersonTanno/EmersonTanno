@@ -22,7 +22,7 @@
 
 ## 📌 Featured Projects
 - 🎮 Tales of a Bard *(in development)*
-- 🎮 [Farm Game Model](https://github.com/EmersonTanno/Farm_Game_Base) *(in development)*
+- 🎮 [Farm Game Basics](https://github.com/EmersonTanno/Farm_Game_Base) *(in development)*
 - 📊 Scholarium – Gamified study platform with microservices  
 - 🛠️ Dustopia Studio – 2D game development assets and tools  
 - 🎓 [CodeQuest](https://gx.games/games/u100j7/codequest/tracks/23ad4dc4-633b-4e21-816a-8efa66b271e1/) – Academic game published on GX Games  
