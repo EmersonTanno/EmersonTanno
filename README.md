@@ -31,7 +31,7 @@
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/emerson-tanno/)  
-- ✉️ Email: **emersontannobrizotto@gmail.com** ou **dustopiastudio@gmail.com**
+- ✉️ Email: **emersontannobrizotto@gmail.com** or **dustopiastudio@gmail.com**
 
 ---
 
