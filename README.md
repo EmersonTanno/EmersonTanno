@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emerson Tanno  
+# 👋 Hello There, I'm Emerson Tanno  
 
 🎮 Game Developer | 💻 Software Engineering Student  
 
